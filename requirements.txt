@@ -35,7 +35,7 @@ ipython @ file:///C:/ci/ipython_1592330399805/work
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi @ file:///C:/ci/jedi_1592841982010/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.15.1
 jsonschema==3.2.0
 jupyter-client==6.1.3
